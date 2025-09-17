@@ -1,0 +1,32 @@
+h1.loja, h2.loja {
+    color: blue;
+}
+
+h2{
+    color: aqua;
+}
+
+span{
+    color: red;
+}
+ul.sabores{
+    color: brown;
+}
+ul.tm{
+    color: rgb(228, 152, 30);
+}
+a.f{
+    color:  rgb(228, 152, 30);
+}
+a.f{
+    color:  rgb(228, 152, 30);
+}
+input.e{
+    color: aqua;
+    background-color: aqua;
+}
+
+button{
+    color: greenyellow;
+    background-color: black;
+}
